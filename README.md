@@ -11,11 +11,11 @@ To follow along this project need to available on your system:
   dbt init
   ....
   fillin all query
-  snowflake project:
-  datawarehouse:
-  database:
-  schema:
-  password: 
+  snowflake project: *****
+  datawarehouse: COMPUTE_WH
+  database: ORDERCUSTOMERS
+  schema: CUSTOMERS
+  password: *****
   ....
 
   # checking connection
